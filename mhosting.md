@@ -22,14 +22,14 @@ The following are the detailed descriptions of services included as part of the 
 ### Panel
 A webspace panel with the capabilities for the Consumer:
 1. To sign in with the uniquely assigned credentials
-    1. And change the password
+    1. To change the password
 2. To administer websites under the Domain
     1. Create or remove subdomains of the Domain
     2. Create website or redirections with the domains
 3. To modify the hosting settings of websites
     1. Creation and removal of DNS address entries
     2. Changing the scripting language
-    3. Using SSL Certificate of your choice
+    3. Using SSL certificate of your choice
 4. To create websites by
     1. Use of website builders
     2. Uploading files directly
@@ -39,7 +39,7 @@ A webmail client with the capabilities for the Consumer:
 1. To send and receive emails
 2. To set up filters and folders
 3. To customize identity presented
-4. to change password
+4. Too change the password
 
 The service are based the use of:
 1. Email address(es) with the Domain
@@ -60,7 +60,7 @@ The following information is to be provided:
 The following service support requests are covered:
 1. Maintenance of all included services
 2. Initialization of email address(es) and mailbox(es)
-3. Renewal and reprovision of SSL Certificates
+3. Renewal and reprovision of SSL certificates
 ## Excluded Services
 For additional services requested by the Consumer not included under the Product, if the requests are fulfillable by the Provider, the Provider reserves the right to charge fees in association with the request paid upfront.
 ### Unintended Domain Operation
@@ -72,7 +72,7 @@ For any other services not included in the Product, a prepaid fee of CAD $16 per
 1. Reset of webspace and credentials due to misuse by the Consumer
 2. Excessive modifications to email usernames and redirections
 
-Please note that technical support beyond the operation of services included in the Products may not be offered.
+Please note that technical support beyond the operation of services included in the Products may not be offered under this Product.
 ## Terms and Conditions
 ### Provision
 1. The Provider shall supply and maintain the Product purchased by the Consumer to specification under the Plan.
@@ -91,9 +91,11 @@ Please note that technical support beyond the operation of services included in 
 1. Either party may communicate with one another via various mediums, not limited to services provided by Meta, Square, Google etc. However, only communications done under email with reasonable levels of authentication are considered formal and legally binding. The Consumer always has the right to request email confirmations from the Provider.
 2. It is the Consumer's responsibility to ensure their ability to receive and access emails sent by the Provider, and the Consumer is liable to all damages caused by any negligence in responding to the Provider, including suspension or termination of the Product under this Agreement.
 ### Renewal
-1. This agreement is made under the principle that terms are by default automatically renewed indefinitely. This can be modified with formal notice from the Consumer.
+1. This agreement is made under the principle that terms are by default automatically renewed indefinitely. Renewals can be cancelled at any time with a formal notice from the Consumer.
 2. The Consumer must formally communicate any non-renewals within the cancellation requirement set out under the Plan. Late cancellations may incur additional fees as unintended domain operation due to renewals for the Domain's registration.
-3. The Provider reserves the right to modify and update this Agreement over the course of any term, and the Product is subject to the latest version of this Agreement as hosted by our Upstream Providers upon every renewal of the term.
+3. Any non-payments to renewals that are have not been cancelled may immediately trigger a Breach Termination, regardless of the reason for the non-payment.
+    1. The Consumer is fully liable to such payments incurred even if due to negligence in cancelling any renewals, and any prolonged non-payment may incur additional interests and constitute grounds for legal action under small claims.
+4. The Provider reserves the right to modify and update this Agreement over the course of any term, and the Product is subject to the latest version of this Agreement as hosted by our Upstream Providers upon every renewal of the term.
 ### Compliance
 1. The Consumer must abide by any applicable agreements from our Upstream Providers, including but not limited to:
     1. [IONOS Inc. General Terms and Conditions](https://www.ionos.ca/terms-gtc/general-terms-and-conditions/)

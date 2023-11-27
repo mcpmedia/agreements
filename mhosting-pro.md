@@ -16,7 +16,7 @@ Maximum of 16. This is counted with the number of subdomains created of the doma
 ### SSL Certificate
 Wildcard DV SSL Certificate issued by DigiCert. This may require addition verification upon request.
 ### Scripting Language
-PHP, .NET and Node.js, etc. Plain HTML is supported with Javascript and CSS, but limitations on the extensibility of these languages may apply.
+PHP, .NET and Node.js, etc. Plain HTML is supported with Javascript and CSS, but limitations on the extensibility of these languages may apply. Limited SSH functionalities are enabled.
 ### Website Builder
 Wordpress, Joomla! and Drupal, etc. This is implemented as applications as provided by our Upstream Providers.
 ### Email
