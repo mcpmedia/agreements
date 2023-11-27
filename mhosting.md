@@ -20,7 +20,7 @@ Certain services are provided with products provided by our suppliers (or our "U
 ## Included Services
 The following are the detailed descriptions of services included as part of the Product as included in the Plan.
 ### Panel
-A webspace control panel with the capabilities for the Consumer:
+A webspace panel with the capabilities for the Consumer:
 1. To sign in with the uniquely assigned credentials
     1. And change the password
 2. To administer websites under the Domain
@@ -35,41 +35,47 @@ A webspace control panel with the capabilities for the Consumer:
     2. Uploading files directly
     3. Creating and using databases
 ### Email
-A webmail client with the capabilities for the Consumer to
-- Send and receive emails
-- Set up filters and folders
-- Customize identity
-- Change password
-The following are also included:
-- Email address(es) with the Domain
-- Mailbox(es) as described under the Plan
-### External
+A webmail client with the capabilities for the Consumer:
+1. To send and receive emails
+2. To set up filters and folders
+3. To customize identity presented
+4. to change password
 
-1. To browse your website from anywhere with full Internet access
-2. To access files via FTP-based protocols
+The service are based the use of:
+1. Email address(es) with the Domain
+2. Mailbox(es) as described under the Plan
+### External Access
+1. To access your website from anywhere with full Internet access
+2. To access files on webspace via FTP-based protocols
 3. To access emails via IMAP / POP3 / SMTP protocols
-3. Ability to administer your webspace with SSH access if included with the Plan
-### Crententials
-The following credentials are to be provided:
-- SSL Certificate
+4. Ability to administer your webspace with SSH access if included with the Plan
+### Information
+The following information is to be provided:
+1. Sign in credentials to the webspace panel
+2. Sign in credentials to the webmail client
+3. Credentials to FTP-based and SSH protocols for the webspace
+4. Email settings for IMAP / POP3 / SMTP client set-up
+5. SSL certificate for the domain
 ### Support
+The following service support requests are covered:
 1. Maintenance of all included services
 2. Initialization of email address(es) and mailbox(es)
 3. Renewal and reprovision of SSL Certificates
 ## Excluded Services
 For additional services requested by the Consumer not included under the Product, if the requests are fulfillable by the Provider, the Provider reserves the right to charge fees in association with the request paid upfront.
 ### Unintended Domain Operation
-In any case of unintended domain operation not included under the Product, either requested or induced by the Consumer, The Provider reserves the right to charge up to 2 times the yearly cost of domain registration from the Upstream Providers and applicable logistical fees, including but not limited to:
+In any case of domain operation not included under the Product, either requested or induced by the Consumer, The Provider reserves the right to charge up to 2 times the yearly cost of domain registration from the Upstream Providers and applicable logistical fees, including but not limited to:
 1. Late cancellation beyond the cancellation requirement set out under the Plan.
 2. Domain transfer before the natural termination of the Domain's registration.
 ### Other Requests
 For any other services not included in the Product, a prepaid fee of CAD $16 per fulfillable request may apply, including but not limited to:
 1. Reset of webspace and credentials due to misuse by the Consumer
 2. Excessive modifications to email usernames and redirections
-Please note that technical support beyond the operation of services included in the Products is not included.
+
+Please note that technical support beyond the operation of services included in the Products may not be offered.
 ## Terms and Conditions
 ### Provision
-1. The Provider shall supply and maintain the Product purchased by the Consumer to specification under the Agreement.
+1. The Provider shall supply and maintain the Product purchased by the Consumer to specification under the Plan.
     1. The services of the Product shall be provided with reasonable skill and care.
     2. In case of any scheduled or emergency maintenance, there may be disruptions to the services and the Provider shall make efforts to
         1. Notify the Consumer of any upcoming maintenance activities that can potentially cause disruptions;
@@ -77,19 +83,17 @@ Please note that technical support beyond the operation of services included in 
     3. The Provider reserve the right to temporarily suspend services fully or partially only for the purposes of ensuring stable operation and security of our infrastructure.
 2. Under this Product, the Domain is to be registered under the name of the Provider. Under such registration,
     1. The Domain is directly owned by the Provider and its use is rented to the Consumer as a part of the Product under this Agreement.
-    2. Before the Natural Termination of a term, the Consumer may request for the Domain to be transferred, which may incur the domain operation fee.
+    2. The Consumer may request for the Domain to be transferred during a term, for which an unintended domain operation may apply.
         1. The Provider is not responsible for performing the domain transfer beyond reasonable cooperation, as well as overcoming obstacles imposed by Upstream Providers to faciliate the domain transfer, which may include grace periods for domain registration renewal.
-        2. Under a civil or criminal termination, the Provider reserves the right to charge an arbitrary amount or refuse the domain transfer.
-    3. In any case, the Consumer may wait until the end of domain registration terms along with any grace periods to register the Domain to own after the termination of this Agreement. 
-3. For the purposes of clear communication, the first concise and valid request as an email to support@mcp.media is regarded as the time of the respective formal request.
+        2. The Provider reserves the right to charge additional fees or refuse the domain transfer, especially if under a Breach or Criminal Termination.
+    3. In any case, the Consumer may wait until the end of domain registration terms along with any grace periods to register the Domain to own after the termination of this Agreement.
 ### Communication
 1. Either party may communicate with one another via various mediums, not limited to services provided by Meta, Square, Google etc. However, only communications done under email with reasonable levels of authentication are considered formal and legally binding. The Consumer always has the right to request email confirmations from the Provider.
-2. It is the Consumer's responsibility to ensure their ability to receive and access emails sent by the Provider, and the Consumer is liable to all damages caused by any of their unreasonable delays in responding to the Provider, including suspension or termination of the Product under this Agreement.
+2. It is the Consumer's responsibility to ensure their ability to receive and access emails sent by the Provider, and the Consumer is liable to all damages caused by any negligence in responding to the Provider, including suspension or termination of the Product under this Agreement.
 ### Renewal
-1. This agreement is made under the principle that terms are by default automatically renewed indefinitely. This can be modified with formal communication from the Consumer.
+1. This agreement is made under the principle that terms are by default automatically renewed indefinitely. This can be modified with formal notice from the Consumer.
 2. The Consumer must formally communicate any non-renewals within the cancellation requirement set out under the Plan. Late cancellations may incur additional fees as unintended domain operation due to renewals for the Domain's registration.
 3. The Provider reserves the right to modify and update this Agreement over the course of any term, and the Product is subject to the latest version of this Agreement as hosted by our Upstream Providers upon every renewal of the term.
-4. A renewal is not regarded as a termination.
 ### Compliance
 1. The Consumer must abide by any applicable agreements from our Upstream Providers, including but not limited to:
     1. [IONOS Inc. General Terms and Conditions](https://www.ionos.ca/terms-gtc/general-terms-and-conditions/)
@@ -108,29 +112,23 @@ Please note that technical support beyond the operation of services included in 
 ### Fulfillment
 1. The Provider offers a limited "24-hour Fulfillment Guarantee", defined as follows:
     1. After 24 hours of the order placement and receipt of payment, if the Provider has not notified the Consumer of the order having been fulfilled, or if the Consumer had found that the order has not been completely fulfilled, the Consumer may formally request for a full refund with proof of non-fulfillment to any specificity of the Product.
-        1. If the request is validated, this triggers a Warranted Termination.
-        2. If the request is invalidated, the Provider shall provide counterproof to all specified non-fulfillments, and the Consumer may still formally request for an Early Termination.
+        1. Any non-fulfillment at the time of the request beyond terms of Provision grants a Warranted Termination.
+        2. Otherwise, the Provider shall provide counterproof to all specified non-fulfillments, and the Consumer may still formally request for an Early Termination.
     2. Within 24 hours of the order placement and receipt of payment, if the Provider notifies the Consumer that the order cannot be fulfilled, and all fulfillments can be fully reverted:
         1. The Consumer may amend details regarding the order for refulfillment; or
         2. The Consumer may also formally request for a full refund under Warranted Termination.
-
 ## Termination
-Once terminated, the Provider is relieved of any obligation to continue the provision of the Product. 
+Once terminated, the Provider is relieved of any obligation to continue the provision of services under the Product. 
 ### Warranted Termination
-The Provider shall issue a full refund to the original payment method within 2 weeks of the formal request.
+Once the circumstances that lead to a Warranted Termination are validated, the Provider shall issue a full refund to the original payment method within 2 weeks of the formal request.
 ### Early Termination
-The Provider shall issue up to a partial refund of 50% the amount paid for the current term, either to the original payment method or as credit for other products. Depending on the duration passed in the term, the amount of partial refund is determined at the discretion of the Provider.
+Under cases described where the Product is no longer offered to the Consumer, the Provider shall issue up to a partial refund of 50% the amount paid for the current term, either to the original payment method or as credit for other products. Depending on the duration passed in the term, the amount of partial refund is determined at the discretion of the Provider.
 ### Natural Termination
-All services are provided until the end of all terms.
+Under cases with no additional complexities, and the renewal of the Product is set to terminate at the end of the term, the Agreement is naturally terminated right before it can be renewed.
 ### Breach Termination
 The Provider is relieved of any obligation to issue any refund or continue fulfilling for the Product. The consumer may be liable to damages directly or indirectly caused by their breach of agreement.
 ### Criminal Termination
-The Provider is relieved of any obligation to issue any refund or continue fulfilling for any product sold to the Consumer. If prosecuted, the Consumer is fully liable for all offenses, legal fees and damages for all parties caused directly or indirectly by the prosecution.
-
-
-## Exceptions
-In event of emergency in absolute necessity, t
-
+The Provider is relieved of any obligation to issue any refund or continue fulfilling for any product sold to the Consumer. The Consumer is fully liable for all offenses, legal fees and damages for all parties caused directly or indirectly by the offenses and any prosecution.
 ## Obligation
 By completing the order placement for which this Agreement is attached to,
 1. The Consumer certify that they are legally permitted to enter into this binding Agreement, and acting with the full permission of any party the Consumer is representing in placing the order.
