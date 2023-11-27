@@ -5,30 +5,24 @@ This order agreement (or "Agreement") governs the services (or the "Product") pr
 The product: Bundle of services provided by the Provider
 
 This Agreement is dependent on:
-- [MCP Media Standardization](https://github.com/mcpmedia/standardization)
-- A Specification Sheet of the applied Product variation.
+- The use of standards and units according to [MCP Standardization](https://github.com/mcpmedia/standardization)
+- A Specification Sheet of the selected Product variation.
 - Applicable agreements with our upstream providers (or our "Upstream Providers") recursively, including:
   - IONOS, for use of their datacenters and other services;
   - DigiCert, for use of their security services and as our certification authority;
-  - ICANN, for use of the world-wide-web and domain registration services;
+  - ICANN, for use of the Internet and domain registration services;
   - Plesk, for use of their webspace management platform;
   - Square, for use of their billing and support services;
   - Synology, for operation of our systems and administration;
   - GitHub, for the hosting of our Agreement and some dependencies.
 
-
-The Consumer is responsible for ensuring their access to all dependencies before placing the order, including acquisition of copies by requesting from the Provider.
-
-Upstream Providers
-
-Standards
+The Consumer is responsible for ensuring their access to all dependencies, including any acquisition of copies by requesting from the Provider, before placing the order.
 
 ## Services
-The following are services offered 
-Term of Service
-
+The following are the detailed descriptions of services included as part of the Product.
 ### Panel
-- Access
+A webspace control panel with the capabilities for the Consumer to
+- Access, or sign in with the uniquely assigned credentials as provided
 - Hosting Settings
   - Creation and removal of DNS address entries
   - Editing of options scripting language 
