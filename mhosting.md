@@ -48,19 +48,19 @@ The service are based the use of:
 1. To access your website from anywhere with full Internet access
 2. To access files on webspace via FTP-based protocols
 3. To access emails via IMAP / POP3 / SMTP protocols
-4. Ability to administer your webspace with SSH access if included with the Plan
+4. Ability to administer your webspace with SSH access if included
 ### Information
 The following information is to be provided:
 1. Sign in credentials to the webspace panel
 2. Sign in credentials to the webmail client
-3. Credentials to FTP-based and SSH protocols for the webspace
-4. Email settings for IMAP / POP3 / SMTP client set-up
+3. Credentials to FTP-based and SSH protocols for the webspace if included
+4. Email configurations for IMAP / POP3 / SMTP clients if included
 5. SSL certificate for the domain
 ### Support
 The following service support requests are covered:
 1. Maintenance of all included services
-2. Initialization of email address(es) and mailbox(es)
-3. Renewal and reprovision of SSL certificates
+2. Initialization of any included upgrade options
+3. Renewal and reprovision of any included wildcard SSL certificates
 ## Excluded Services
 For additional services requested by the Consumer not included under the Product, if the requests are fulfillable by the Provider, the Provider reserves the right to charge fees in association with the request paid upfront.
 ### Unintended Domain Operation
@@ -92,7 +92,7 @@ Please note that technical support beyond the operation of services included in 
 2. It is the Consumer's responsibility to ensure their ability to receive and access emails sent by the Provider, and the Consumer is liable to all damages caused by any negligence in responding to the Provider, including suspension or termination of the Product under this Agreement.
 ### Renewal
 1. This agreement is made under the principle that terms are by default automatically renewed indefinitely. Renewals can be cancelled at any time with a formal notice from the Consumer.
-2. The Consumer must formally communicate any non-renewals within the cancellation requirement set out under the Plan. Late cancellations may incur additional fees as unintended domain operation due to renewals for the Domain's registration.
+2. The Consumer must formally communicate any non-renewals within the Natural Termination Requirement set out under the Plan. Late cancellations may incur additional fees as unintended domain operation due to renewals for the Domain's registration.
 3. Any non-payments to renewals that are have not been cancelled may immediately trigger a Breach Termination, regardless of the reason for the non-payment.
     1. The Consumer is fully liable to such payments incurred even if due to negligence in cancelling any renewals, and any prolonged non-payment may incur additional interests and constitute grounds for legal action under small claims.
 4. The Provider reserves the right to modify and update this Agreement over the course of any term, and the Product is subject to the latest version of this Agreement as hosted by our Upstream Providers upon every renewal of the term.
