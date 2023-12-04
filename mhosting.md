@@ -9,7 +9,7 @@ This Agreement is dependent on:
 
 The Consumer is responsible for ensuring their access to all dependencies, including any acquisition of copies by requesting from the Provider, before placing the order.
 ### Upstream Providers
-Certain services are provided with products provided by our suppliers (or our "Upstream Providers") who are not acting parties under this Agreement, including:
+Certain services are provided with products provided by our suppliers (or our "Upstream Providers") who are not acting parties under this Agreement, including but not limited to:
   - IONOS, for use of their datacenters and other services;
   - DigiCert, for use of their security services and as our certification authority;
   - ICANN, for use of the Internet and domain registration services;
@@ -17,6 +17,8 @@ Certain services are provided with products provided by our suppliers (or our "U
   - Square, for use of their billing and support services;
   - Synology, for operation of our systems and administration;
   - GitHub, for the hosting of our Agreement and certain dependencies.
+
+The Provider shall provide a list of additional Upstream Providers for any ongoing term to the Consumer upon request. 
 ## Included Services
 The following are the detailed descriptions of services included as part of the Product as included in the Plan.
 ### Panel
@@ -81,7 +83,9 @@ Please note that technical support beyond the operation of services included in 
         1. Notify the Consumer of any upcoming maintenance activities that can potentially cause disruptions;
         2. Ensure such maintenance activities take place during off-peak hours if possible;
     3. The Provider reserve the right to temporarily suspend services fully or partially only for the purposes of ensuring stable operation and security of our infrastructure.
-2. Under this Product, the Domain is to be registered under the name of the Provider. Under such registration,
+2. If the Provider fails to provide included services up to the standard set forth above, the Consumer shall be eligible for Early Termination by request.
+    1. The Provider also reserves the right to initiate Early Termination without cause. 
+3. Under this Product, the Domain is to be registered under the name of the Provider. Under such registration,
     1. The Domain is directly owned by the Provider and its use is rented to the Consumer as a part of the Product under this Agreement.
     2. The Consumer may request for the Domain to be transferred during a term, for which an unintended domain operation may apply.
         1. The Provider is not responsible for performing the domain transfer beyond reasonable cooperation, as well as overcoming obstacles imposed by Upstream Providers to faciliate the domain transfer, which may include grace periods for domain registration renewal.
@@ -91,11 +95,12 @@ Please note that technical support beyond the operation of services included in 
 1. Either party may communicate with one another via various mediums, not limited to services provided by Meta, Square, Google etc. However, only communications done under email with reasonable levels of authentication are considered formal and legally binding. The Consumer always has the right to request email confirmations from the Provider.
 2. It is the Consumer's responsibility to ensure their ability to receive and access emails sent by the Provider, and the Consumer is liable to all damages caused by any negligence in responding to the Provider, including suspension or termination of the Product under this Agreement.
 ### Renewal
-1. This agreement is made under the principle that terms are by default automatically renewed indefinitely. Renewals can be cancelled at any time with a formal notice from the Consumer.
-2. The Consumer must formally communicate any non-renewals within the Natural Termination Requirement set out under the Plan. Late cancellations may incur additional fees as unintended domain operation due to renewals for the Domain's registration.
-3. Any non-payments to renewals that are have not been cancelled may immediately trigger a Breach Termination, regardless of the reason for the non-payment.
-    1. The Consumer is fully liable to such payments incurred even if due to negligence in cancelling any renewals, and any prolonged non-payment may incur additional interests and constitute grounds for legal action under small claims.
-4. The Provider reserves the right to modify and update this Agreement over the course of any term, and the Product is subject to the latest version of this Agreement as hosted by our Upstream Providers upon every renewal of the term.
+1. This agreement is made under the principle that terms are by default automatically renewed indefinitely. Renewals can be cancelled at any time during a term by notice from the Consumer.
+2. All terms are committed by the Consumer, meaning that each term is set to complete in its entirety, and it is up to the sole discretion of the Provider to decide whether to accomodate requests for early termination or partial refunds.
+3. The Consumer must formally communicate any non-renewals within the Natural Termination Requirement set out under the Plan. Late cancellations may not be accomodated or may incur additional fees as unintended domain operation due to renewals for the Domain's registration.
+4. Any non-payments to renewals that are have not been cancelled may immediately trigger a Breach Termination, regardless of the reason for the non-payment.
+    1. The Consumer is fully liable to such payments incurred even if due to negligence in cancelling any renewals, and any prolonged non-payment may incur additional interests and constitute grounds for collection.
+5. The Provider reserves the right to modify and update this Agreement over the course of any term, and the Product is subject to the latest version of this Agreement as hosted by our Upstream Providers upon every renewal of the term.
 ### Compliance
 1. The Consumer must abide by any applicable agreements from our Upstream Providers, including but not limited to:
     1. [IONOS Inc. General Terms and Conditions](https://www.ionos.ca/terms-gtc/general-terms-and-conditions/)
@@ -124,7 +129,7 @@ Once terminated, the Provider is relieved of any obligation to continue the prov
 ### Warranted Termination
 Once the circumstances that lead to a Warranted Termination are validated, the Provider shall issue a full refund to the original payment method within 2 weeks of the formal request.
 ### Early Termination
-Under cases described where the Product is no longer offered to the Consumer, the Provider shall issue up to a partial refund of 50% the amount paid for the current term, either to the original payment method or as credit for other products. Depending on the duration passed in the term, the amount of partial refund is determined at the discretion of the Provider.
+Under cases described where the Product is no longer offered to the Consumer, the Provider shall issue a partial refund as requested by the Consumer, calculated as the proportionate amount of unused quarters of term, , to half of the amount paid for the term.
 ### Natural Termination
 Under cases with no additional complexities, and the renewal of the Product is set to terminate at the end of the term, the Agreement is naturally terminated right before it can be renewed.
 ### Breach Termination

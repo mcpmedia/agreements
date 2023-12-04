@@ -3,13 +3,13 @@
 This specification sheet is to be used in conjunction with the "Order Agreement for MCP Media Hosting Products" to specify the details of this variation of the Product (or the "Plan").
 ## Basics
 ### Domain Name
-One domain name (or the "Domain") under the category of "standard domains" or "premium domains" as determined or specifically approved by the Provider.
+One domain name (or the "Domain") under the grading of "basic", "standard" or "premium" as determined or specifically approved by the Provider.
 ### Term of Agreement
 Yearly, that is:
 - If the next calendar year contains the same calendar day of the calendar year of the current term, then, from the calendar day of the calendar year of the beginning of the current term, to the previous calendar day of the same calendar day of the next calendar year.
 - If the next calendar year does not contain the same calendar day of the calendar year of the current term, then, from the calendar day of the calendar year of the beginning of the current term, to the last calendar day of the same calendar month of the next calendar year.
-### Natural Termination Requirement
-More than 7 days formal notice by the Consumer
+### Natural Termination
+Formal notice of at least 7 days prior to renewal by the Consumer required to qualify
 ## Features
 ### Number of Websites
 Maximum of 16. This is counted with the number of subdomains created of the domain on the panel and includes the domain itself. Other ways to circumvent this limitation to achieve more represented websites within the limits of the Product is allowed.
@@ -22,12 +22,12 @@ MySQL. This may be implemented using its fork distributions.
 ### Website Builder
 Wordpress, Joomla, Drupal and PrestaShop. These are implemented as applications as provided by our Upstream Providers.
 ### Email
-One mailbox of 2 GB* with anti-spam features provided by our Upstream Providers. Includes option to upgrade to four mailboxes of 2 GB* with anti-spam features provided by our Upstream Providers.
+One mailbox of 2 GB* with anti-spam features provided by our Upstream Providers. Includes option to upgrade to four mailboxes of 2 GB* with anti-spam features provided by our Upstream Providers. Both options cover a maximum of 16 email redirections. Can be modified or reset twice per quarter of billing period collectively.
 ## Resources
 ### Processing Power
 100%*
 ### Memory
-2048 MB*
+2048 MB* with PHP memory limit set to 512 MB*
 ### Storage
 32 GB*
 ### Bandwidth
