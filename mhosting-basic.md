@@ -1,4 +1,4 @@
-# Specification Sheet for MCP Media Hosting Product of Base Plan
+# Specification Sheet for MCP Media Hosting Product of Basic Plan
 ## Domain
 This specification sheet is to be used in conjunction with the "Order Agreement for MCP Media Hosting Products" to specify the details of this variation of the Product (or the "Plan").
 ## Basics
