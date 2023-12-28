@@ -22,8 +22,7 @@ MySQL. This may be implemented using its fork distributions.
 ### Website Builder
 Wordpress. This is implemented as an application as provided by our Upstream Providers.
 ### Email Service
-Integrated in the webspace provided, limitations on authentication protocols and features may apply from Upstream Providers. Maximum of 16 email redirections.
-Or, this may be replaced by one mailbox of 2 GB* with anti-spam features provided by our Upstream Providers with maximum of . Can be modified or reset once per quarter of billing period.
+Up to 4 redirections, or depending on availability, integrated in the webspace provided, limitations on authentication protocols and features may apply from Upstream Providers. Maximum of 16 email redirections.
 ## Resources
 Allocated under virtualization.
 ### Processing Power
