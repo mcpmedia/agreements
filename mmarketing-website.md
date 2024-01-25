@@ -1,4 +1,4 @@
-# MCP Media Order Agreement for Website-To-Go Basic Pack
+# MCP Media Order Agreement for Website-To-Go Basic Pack (Not Ready)
 Welcome to MCP Group Inc. 
 ## Domain
 This "MCP Media Order Agreement for Website-To-Go Basic Pack" (or "this Agreement") is to outline the specific details regarding the provision of services (or "the Services") under the purchase of the product "Website-To-Go Basic Pack" by the  MCP Club (as part of MCP Group Inc., or "the Company") and Yoon-Sung Kim (or "the Member") in order to protect all parties involved. This Agreement establishes the grounds for additional dependent contracts between the parties in the future.
