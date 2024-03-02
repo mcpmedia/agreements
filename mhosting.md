@@ -124,18 +124,7 @@ Please note that technical support beyond the operation of services included in 
     2. Within 24 hours of the order placement and receipt of payment, if the Provider notifies the Consumer that the order cannot be fulfilled, and all fulfillments can be fully reverted:
         1. The Consumer may amend details regarding the order for refulfillment; or
         2. The Consumer may also formally request for a full refund under Warranted Termination.
-## Termination
-Once terminated, the Provider is relieved of any obligation to continue the provision of services under the Product. 
-### Warranted Termination
-Once the circumstances that lead to a Warranted Termination are validated, the Provider shall issue a full refund to the original payment method within 2 weeks of the formal request.
-### Early Termination
-Under cases described where the Product is no longer offered to the Consumer, the Provider shall issue a partial refund as requested by the Consumer, calculated as the proportionate amount of unused quarters of term, , to half of the amount paid for the term.
-### Natural Termination
-Under cases with no additional complexities, and the renewal of the Product is set to terminate at the end of the term, the Agreement is naturally terminated right before it can be renewed.
-### Breach Termination
-The Provider is relieved of any obligation to issue any refund or continue fulfilling for the Product. The consumer may be liable to damages directly or indirectly caused by their breach of agreement.
-### Criminal Termination
-The Provider is relieved of any obligation to issue any refund or continue fulfilling for any product sold to the Consumer. The Consumer is fully liable for all offenses, legal fees and damages for all parties caused directly or indirectly by the offenses and any prosecution.
+
 ## Obligation
 By completing the order placement for which this Agreement is attached to,
 1. The Consumer certify that they are legally permitted to enter into this binding Agreement, and acting with the full permission of any party the Consumer is representing in placing the order.
