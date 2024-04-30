@@ -91,9 +91,6 @@ Please note that technical support beyond the operation of services included in 
         1. The Provider is not responsible for performing the domain transfer beyond reasonable cooperation, as well as overcoming obstacles imposed by Upstream Providers to faciliate the domain transfer, which may include grace periods for domain registration renewal.
         2. The Provider reserves the right to charge additional fees or refuse the domain transfer, especially if under a Breach or Criminal Termination.
     3. In any case, the Consumer may wait until the end of domain registration terms along with any grace periods to register the Domain to own after the termination of this Agreement.
-### Communication
-1. Either party may communicate with one another via various mediums, not limited to services provided by Meta, Square, Google etc. However, only communications done under email with reasonable levels of authentication are considered formal and legally binding. The Consumer always has the right to request email confirmations from the Provider.
-2. It is the Consumer's responsibility to ensure their ability to receive and access emails sent by the Provider, and the Consumer is liable to all damages caused by any negligence in responding to the Provider, including suspension or termination of the Product under this Agreement.
 ### Renewal
 1. This agreement is made under the principle that terms are by default automatically renewed indefinitely. Renewals can be cancelled at any time during a term by notice from the Consumer.
 2. All terms are committed by the Consumer, meaning that each term is set to complete in its entirety, and it is up to the sole discretion of the Provider to decide whether to accomodate requests for early termination or partial refunds.
